@@ -1,0 +1,4 @@
+Maria da Silva Oliveira;4.3;2.5;6.6;10.0
+João Santos Pereira;7.0;4.0;2.3;4.4
+Ana Carolina Ferreira Lima;10.0;10.0;10.0;9.9
+Pedro Oliveira Mendes;4.4;5.5;6.6;7.7
